@@ -1,6 +1,10 @@
 # Dijkstra-Algorithm-applied-in-profit-optimization-in-metro-system
 ## objective:
       use Dijkstra algorithm to find the best metro route scenario which is the most profitable for a metro company and satisfies the travel demand of consumers. 
+      
+## topic:
+      Development of an application (in Python) for educational purposes where students can define Public Transport systems in a schematic situation in order to optimize the service (in terms of travel time for the passengers, passenger trips, exploitation costs, etc.).
+
 ## The inputs are:
       1) the location of metro stations
       2) the lines that connect stations
