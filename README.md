@@ -1,6 +1,9 @@
 # the best metro route scenario
 ## Objective:
-      use Dijkstra algorithm to find the best metro route scenario which is the most profitable for a metro company and satisfies the travel demand of consumers. 
+      to find the best metro route scenario which is
+            the most profitable for a metro company 
+            and satisfies the travel demand of consumers. 
+      (by using the Four-Step Travel Demand Model and Dijkstra algorithm)
       
 ## Topic:
       Development of an application (in Python) for educational purposes where students can define Public Transport systems in a schematic situation in order to optimize the service (in terms of travel time for the passengers, passenger trips, exploitation costs, etc.).
