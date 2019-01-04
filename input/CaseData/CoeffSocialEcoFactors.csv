@@ -1,0 +1,3 @@
+,number of inhabitants,number of jobs,income,car ownership(how many cars a family has),household structure,family size(how many members in a family)
+Coeff_production,3,2,1,3,2,1
+Coeff_attraction,2,3,2,1,3,2

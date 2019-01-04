@@ -1,0 +1,2 @@
+WaitingTimeWeight,MetroTravellingTimeWeight,TransferTimeWeight,WalkingTimeWeight,MoneyWeight,PricePerDistance,WalkingSpeed,TransferWalkingTimeOnAverage,RatioOf(WaitingTime)/(Frequency),MetroSpeedOnAverage
+1.5,4.5,2.5,5,4,0.4,5,2,0.5,100
