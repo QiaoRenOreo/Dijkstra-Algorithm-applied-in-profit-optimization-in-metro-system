@@ -6,6 +6,9 @@
       2) the lines that connect stations
       3) the frequency of vehicles
       4) capacity of vehicles
+      ![scenario 01](https://user-images.githubusercontent.com/46351057/50695483-c6902980-1077-11e9-8473-2880e7be7d4e.jpg)
+
+      
 ## The outputs are:
       1) a trip end O-D matrix
       2) a comparison of traffic volume and transport capacity
