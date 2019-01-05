@@ -27,3 +27,6 @@
       1) a trip end O-D matrix
       2) a comparison of traffic volume and transport capacity
       3) financial cost, revenue and income.
+
+
+## an instance of input and corresponding output
