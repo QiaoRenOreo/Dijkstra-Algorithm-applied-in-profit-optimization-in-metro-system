@@ -45,11 +45,13 @@
       3) mode choice: Dijkstra algorithm is applied
       4) traffic assignment
 ## Inputs:
-      1) the location of metro stations
+      each scenario contanins the following three inputs. The tables bellow are the input of scenario 1. 
+     
+     1) the location of metro stations
       
    ![input1](https://user-images.githubusercontent.com/46351057/50720739-7bb0f900-10ed-11e9-9c23-6e13cea34c52.png)
       
-      2) the lines that connect stations
+    2) the lines that connect stations
       
    ![input2](https://user-images.githubusercontent.com/46351057/50720737-7b186280-10ed-11e9-9b61-85871b2254a0.png)
       
@@ -67,7 +69,7 @@
 ![scenario 04](https://user-images.githubusercontent.com/46351057/50720234-ef4e0880-10e3-11e9-8743-5e7eee3b02e7.jpg)
 
 ## Outputs:
-      each scenario input corresponds to the following 3-folded outputs. 
+      each scenario input corresponds to the following 3-folded outputs. The results bellow are the output of scenario 1. 
 1) a trip end Origin-Destination matrix
       
       ![output1](https://user-images.githubusercontent.com/46351057/50720093-97ae9d80-10e1-11e9-9eb6-78ad0ddf32b5.png)
