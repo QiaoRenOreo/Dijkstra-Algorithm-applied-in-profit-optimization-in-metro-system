@@ -11,28 +11,29 @@
 
 
 ## Case data:
-1) Dimension Data
+1) Dimension Data.
       The application is based on a certain defined case. In this case, an area is divided into a 5 rows*5 columns grid network. Each grid cell is a zone. The total number of zones is 25. It can be seen in the picture below. 
       ![casegrid](https://user-images.githubusercontent.com/46351057/50719932-e575d680-10de-11e9-885b-8a1421423111.jpg)
       ![dimensiondata5](https://user-images.githubusercontent.com/46351057/50720485-21ae3480-10e9-11e9-83c6-316ea9c146b7.PNG)
-In order to generalize this project on different size of the grid nework, a 10 rows*10 columns grid network has also been built.
+      In order to generalize this project on different size of the grid nework, a 10 rows*10 columns grid network has also been built.
       ![dimensiondata10](https://user-images.githubusercontent.com/46351057/50720475-f3c8f000-10e8-11e9-9e74-696895342ea4.PNG)
-However, the focus of this readme is on the 5 rows*5 columns grid network.
+      However, the focus of this readme is on the 5 rows*5 columns grid network.
 
-2) Social Economic Factors
+2) Social Economic Factors.
       These data are used for calculating trip generation. It contains number of inhabitants in a zone, number of jobs in a zone, average income of the inhabitants in a zone, average car ownership of inhabitants in a zone, average household structure of in habitants in a zone, average family size of in habitants in a zone 
       ![2newsocialeconomicfactors](https://user-images.githubusercontent.com/46351057/50720471-edd30f00-10e8-11e9-923f-5dc4d5966c75.PNG)
 
-3) Coefficients of Social Economic Factors
+3) Coefficients of Social Economic Factors.
       These data are used for calculating trip generation.
       ![2](https://user-images.githubusercontent.com/46351057/50719929-e4dd4000-10de-11e9-8aba-c8c7be118c3f.PNG)
 
-4) Impedance Calculation Factors
+4) Impedance Calculation Factors.
       There data are used for calculating impedance from a zone to another zone. 
       ![4impedence](https://user-images.githubusercontent.com/46351057/50720473-ee6ba580-10e8-11e9-800b-917625cc65d3.png)
-      ![4_legend](https://user-images.githubusercontent.com/46351057/50720555-448d1880-10ea-11e9-8568-56e55605fd95.png)
+      ![4_legend](https://user-images.githubusercontent.com/46351057/50720605-0a704680-10eb-11e9-9e11-93c70c5a4a10.png)
 
-5) Budget Data
+
+5) Budget Data.
       These data are used for calculating financial cost, revenue and income. 
       ![5budget](https://user-images.githubusercontent.com/46351057/50720470-ed3a7880-10e8-11e9-9044-793fb4f20536.PNG)
 
@@ -56,6 +57,7 @@ However, the focus of this readme is on the 5 rows*5 columns grid network.
 ![scenario 04](https://user-images.githubusercontent.com/46351057/50720234-ef4e0880-10e3-11e9-8743-5e7eee3b02e7.jpg)
 
 ## Outputs:
+      each scenario input corresponds to the following 3-folded outputs. 
 1) a trip end Origin-Destination matrix
       
       ![output1](https://user-images.githubusercontent.com/46351057/50720093-97ae9d80-10e1-11e9-9eb6-78ad0ddf32b5.png)
