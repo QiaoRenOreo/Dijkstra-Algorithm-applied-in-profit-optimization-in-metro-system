@@ -92,4 +92,5 @@
       The best metro system is scenario 4, compared with other scenarios. 
       
 ## What user can do with the output? 
-      This project is designed for metro company. User (metro company) is able to change the input: location of metro stations, the lines that connect stations, the frequency of vehicles, and capacity of vehicles. By analyzing the output, the user is expected to realize that, from which zone to which zone, the travel demand is larger than the others. So the user can make improvement according to this. If the transport capacity does not satisfy the travel demand or the income does not satisfy user’s demand, improvements can be made. 
+   This project is designed for metro company. 
+   User (metro company) is able to change the input: location of metro stations, the lines that connect stations, the frequency of vehicles, and capacity of vehicles. By analyzing the output, the user is expected to realize that, from which zone to which zone, the travel demand is larger than the others. So the user can make improvement according to this. If the transport capacity does not satisfy the travel demand or the income does not satisfy user’s demand, improvements can be made. 
