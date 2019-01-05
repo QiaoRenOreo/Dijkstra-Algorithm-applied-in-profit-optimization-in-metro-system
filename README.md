@@ -51,8 +51,10 @@
       4) capacity of vehicles
 
 ### Instances of input scenarios      
-![scenario 01](https://user-images.githubusercontent.com/46351057/50720238-f1b06280-10e3-11e9-99ae-b050e2169a84.jpg | width=100)
-![scenario 02](https://user-images.githubusercontent.com/46351057/50720239-f248f900-10e3-11e9-8bf5-de6480ba81fd.jpg =50x50)
+![scenario 01](https://user-images.githubusercontent.com/46351057/50720238-f1b06280-10e3-11e9-99ae-b050e2169a84.jpg)
+
+![scenario 02](https://user-images.githubusercontent.com/46351057/50720239-f248f900-10e3-11e9-8bf5-de6480ba81fd.jpg)
+
 ![scenario 03](https://user-images.githubusercontent.com/46351057/50720231-ee1cdb80-10e3-11e9-92f9-a01d0d7ed7ad.jpg)
 ![scenario 04](https://user-images.githubusercontent.com/46351057/50720234-ef4e0880-10e3-11e9-8743-5e7eee3b02e7.jpg)
 
