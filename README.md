@@ -38,13 +38,14 @@ The application is based on a certain defined case. In this case, an area is div
 1) a trip end Origin-Destination matrix
       
       ![output1](https://user-images.githubusercontent.com/46351057/50720093-97ae9d80-10e1-11e9-9eb6-78ad0ddf32b5.png)
-      
+      ![output1 1](https://user-images.githubusercontent.com/46351057/50720274-da25a980-10e4-11e9-8cb1-5b5d003fc3e1.png)
 2) a comparison of traffic volume and transport capacity
       This is a result of traffic assignment. It has two purposes. The first purpose is to show that how many trips go from each metro station to another metro station. This is called traffic volume. It can be seen in the pink part of the table below. It clearly presents which edges of which line has more than traffic volume than the other edges. So the user can make some improvement if needed. The second purpose is to show whether or not the transport capacity is able to bear the traffic volume. If the calculation result is a positive number which means the transport capacity is large enough, then the result shows “Succeed”. Otherwise, the result shows “Fail”. The calculation and result can be seen in the blue part of the table below. 
       ![output2](https://user-images.githubusercontent.com/46351057/50720094-97ae9d80-10e1-11e9-93dd-5c74b05c6080.png)
+      ![output2 2](https://user-images.githubusercontent.com/46351057/50720275-dabe4000-10e4-11e9-8730-bc85210dba32.png)
       
 3) financial cost, revenue and income
-      ![output3](https://user-images.githubusercontent.com/46351057/50720095-98473400-10e1-11e9-845b-05a35f69a6cb.png)
+      ![output3 3](https://user-images.githubusercontent.com/46351057/50720273-da25a980-10e4-11e9-8432-2ceaa034392c.png)
       Financial cost contains two parts: establishment cost and operation cost
       Establishment cost of the whole metro system (euros) = Station build-up cost + Road build-up cost + Vehicle purchasing cost
       Operation cost of a line (euros/day) = Station maintenance cost + Road maintenance cost + Vehicle maintenance Cost + Labor cost 
@@ -52,7 +53,7 @@ The application is based on a certain defined case. In this case, an area is div
       Income of a line (euros/day) = Revenue- Operation cost. The establishment cost is not taken into account when calculating income because establishment cost is not related to time. 
 
 ## instances of input scenarios and corresponding output
-![scenario 01](https://user-images.githubusercontent.com/46351057/50719570-1226ef80-10d9-11e9-8a9f-a95c40b06f00.jpg)
-![scenario 02](https://user-images.githubusercontent.com/46351057/50719571-16eba380-10d9-11e9-8d36-19309103fd55.jpg)
-![scenario 03](https://user-images.githubusercontent.com/46351057/50719573-19e69400-10d9-11e9-9c7d-b31f1bfc6c98.jpg)
-![scenario 04](https://user-images.githubusercontent.com/46351057/50695640-36061900-1078-11e9-8710-de0d4a9cc896.jpg)
+![scenario 01](https://user-images.githubusercontent.com/46351057/50720238-f1b06280-10e3-11e9-99ae-b050e2169a84.jpg)
+![scenario 02](https://user-images.githubusercontent.com/46351057/50720239-f248f900-10e3-11e9-8bf5-de6480ba81fd.jpg)
+![scenario 03](https://user-images.githubusercontent.com/46351057/50720231-ee1cdb80-10e3-11e9-92f9-a01d0d7ed7ad.jpg)
+![scenario 04](https://user-images.githubusercontent.com/46351057/50720234-ef4e0880-10e3-11e9-8743-5e7eee3b02e7.jpg)
