@@ -46,9 +46,17 @@
       4) traffic assignment
 ## Inputs:
       1) the location of metro stations
+      
+   ![input1](https://user-images.githubusercontent.com/46351057/50720739-7bb0f900-10ed-11e9-9c23-6e13cea34c52.png)
+      
       2) the lines that connect stations
-      3) the frequency of vehicles
-      4) capacity of vehicles
+      
+   ![input2](https://user-images.githubusercontent.com/46351057/50720737-7b186280-10ed-11e9-9b61-85871b2254a0.png)
+      
+      3) metro property: 
+      the frequency of vehicles and the capacity of vehicles
+      
+  ![input3](https://user-images.githubusercontent.com/46351057/50720738-7b186280-10ed-11e9-9a0e-987ba0b586bb.png)
 
 ### Instances of input scenarios      
 ![scenario 01](https://user-images.githubusercontent.com/46351057/50720238-f1b06280-10e3-11e9-99ae-b050e2169a84.jpg)
