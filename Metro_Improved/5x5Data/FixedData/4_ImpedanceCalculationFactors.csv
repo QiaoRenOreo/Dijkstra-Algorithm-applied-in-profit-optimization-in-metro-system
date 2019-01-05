@@ -1,0 +1,15 @@
+X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11
+1.5,4.5,2.5,5,4,0.4,5,2,0.5,60,-0.001
+,,,,,,,,,,
+,,,,,,,,,,
+OutOfVehicleWaitingTimeWeight,X1,,,,,,,,,
+InVehicleTimeWeight,X2,,,,,,,,,
+TransferTimeWeight,X3,,,,,,,,,
+WalkingTimeWeight,X4,,,,,,,,,
+MoneyWeightPerHour,X5,,,,,,,,,
+PricePerDistanceKm,X6,,,,,,,,,
+WalkingSpeed[kmh],X7,,,,,,,,,
+TransferWalkingTimeAtStation,X8,,,,,,,,,
+RatioOf(WaitingTime)/(Frequency),X9,,,,,,,,,
+MetroSpeedOnAverage,X10,,,,,,,,,
+Beta,X11,,,,,,,,,

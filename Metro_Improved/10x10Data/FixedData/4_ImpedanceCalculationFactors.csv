@@ -1,0 +1,11 @@
+X1,OutOfVehicleWaitingTimeWeight
+X2,InVehicleTimeWeight
+X3,TransferTimeWeight
+X4,WalkingTimeWeight
+X5,MoneyWeightPerHour
+X6,PricePerDistanceKm
+X7,WalkingSpeed[kmh]
+X8,TransferWalkingTimeAtStation
+X9,RatioOf(WaitingTime)/(Frequency)
+X10,MetroSpeedOnAverage
+X11,Beta
