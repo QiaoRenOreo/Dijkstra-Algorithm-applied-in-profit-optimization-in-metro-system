@@ -1,12 +1,10 @@
 # the best metro route scenario
 ## Objective:
-      to find the best metro route scenario which is
-            the most profitable for a metro company 
-            and satisfies the travel demand of consumers. 
-      (by using the Four-Step Travel Demand Model and Dijkstra algorithm)
+   to find the best metro route scenario which is the most profitable for a metro company and satisfies the travel demand of consumers. 
+   (by using the Four-Step Travel Demand Model and Dijkstra algorithm)
       
 ## Topic:
-      Development of an application (in Python) for educational purposes where students can define Public Transport systems in a schematic situation in order to optimize the service (in terms of travel time for the passengers, passenger trips, exploitation costs, etc.).
+   Development of an application (in Python) for educational purposes where students can define Public Transport systems in a schematic situation in order to optimize the service (in terms of travel time for the passengers, passenger trips, exploitation costs, etc.).
 
 
 
@@ -45,9 +43,9 @@
       3) mode choice: Dijkstra algorithm is applied
       4) traffic assignment
 ## Inputs:
-      each scenario contanins the following three inputs. The tables bellow are the input of scenario 1. 
+   each scenario contanins the following three inputs. The tables bellow are the input of scenario 1. 
      
-     1) the location of metro stations
+    1) the location of metro stations
       
    ![input1](https://user-images.githubusercontent.com/46351057/50720739-7bb0f900-10ed-11e9-9c23-6e13cea34c52.png)
       
@@ -55,8 +53,8 @@
       
    ![input2](https://user-images.githubusercontent.com/46351057/50720737-7b186280-10ed-11e9-9b61-85871b2254a0.png)
       
-      3) metro property: 
-      the frequency of vehicles and the capacity of vehicles
+    3) metro property: 
+       the frequency of vehicles and the capacity of vehicles
       
   ![input3](https://user-images.githubusercontent.com/46351057/50720738-7b186280-10ed-11e9-9a0e-987ba0b586bb.png)
 
@@ -69,7 +67,8 @@
 ![scenario 04](https://user-images.githubusercontent.com/46351057/50720234-ef4e0880-10e3-11e9-8743-5e7eee3b02e7.jpg)
 
 ## Outputs:
-      each scenario input corresponds to the following 3-folded outputs. The results bellow are the output of scenario 1. 
+   each scenario input corresponds to the following 3-folded outputs. The results bellow are the output of scenario 1. 
+
 1) a trip end Origin-Destination matrix
       
       ![output1](https://user-images.githubusercontent.com/46351057/50720093-97ae9d80-10e1-11e9-9eb6-78ad0ddf32b5.png)
@@ -89,7 +88,7 @@
 
 
 ## Which scenario is the best among the four scenario instances?
-      The best metro system is scenario 4, compared with other scenarios. 
+   The best metro system is scenario 4, compared with other scenarios. 
       
 ## What user can do with the output? 
    This project is designed for metro company. 
