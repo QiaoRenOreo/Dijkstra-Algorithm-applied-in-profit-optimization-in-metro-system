@@ -35,14 +35,15 @@ The application is based on a certain defined case. In this case, an area is div
       4) traffic assignment
       
 ## Outputs:
-      1) a trip end Origin-Destination matrix
+1) a trip end Origin-Destination matrix
+      
       ![output1](https://user-images.githubusercontent.com/46351057/50720093-97ae9d80-10e1-11e9-9eb6-78ad0ddf32b5.png)
       
-      2) a comparison of traffic volume and transport capacity
+2) a comparison of traffic volume and transport capacity
       This is a result of traffic assignment. It has two purposes. The first purpose is to show that how many trips go from each metro station to another metro station. This is called traffic volume. It can be seen in the pink part of the table below. It clearly presents which edges of which line has more than traffic volume than the other edges. So the user can make some improvement if needed. The second purpose is to show whether or not the transport capacity is able to bear the traffic volume. If the calculation result is a positive number which means the transport capacity is large enough, then the result shows “Succeed”. Otherwise, the result shows “Fail”. The calculation and result can be seen in the blue part of the table below. 
       ![output2](https://user-images.githubusercontent.com/46351057/50720094-97ae9d80-10e1-11e9-93dd-5c74b05c6080.png)
       
-      3) financial cost, revenue and income
+3) financial cost, revenue and income
       ![output3](https://user-images.githubusercontent.com/46351057/50720095-98473400-10e1-11e9-845b-05a35f69a6cb.png)
       Financial cost contains two parts: establishment cost and operation cost
       Establishment cost of the whole metro system (euros) = Station build-up cost + Road build-up cost + Vehicle purchasing cost
